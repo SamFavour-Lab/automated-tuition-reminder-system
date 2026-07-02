@@ -25,6 +25,13 @@ This workflow automatically:
 
 This enables staff to focus on higher-value administrative work while ensuring payment reminders are sent consistently.
 
+
+
+## Workflow Overview
+
+The screenshot below shows the actual n8n workflow built for this project.
+
+![Workflow Overview](assets/screenshots/workflow-overview.png)
 ---
 
 ## Technologies Used
